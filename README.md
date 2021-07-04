@@ -8,7 +8,7 @@ Contains the code for a basic implementation of a cache system using the LRU app
 
 - The technique of storing cache data or cache files as history on a phone or web browser to improve the user experience on future visits to a website or an app is known as caching. 
 
-## What is Least RecentlY Used cache? 
+## What is Least Recently Used cache? 
 
 - A Least Recently Used (LRU) Cache organizes items in order of use, allowing you to quickly identify which item hasn't been used for the longest amount of time. Picture a clothes rack, where clothes are always hung up on one side. To find the least-recently used item, look at the item on the other end of the rack.
 
