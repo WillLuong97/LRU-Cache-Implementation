@@ -95,4 +95,8 @@ class LRUCache {
             hashMap.put(key, node);
         }
     }
+    //function to display the current hashmap
+    public HashMap<Integer, DoubleListNode> getHashMap(){
+        return hashMap;
+    }
 }
